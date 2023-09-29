@@ -1,0 +1,75 @@
+C:\Users\Vladimir\source\repos\Game_NuPogodi\bin\Debug\Game_NuPogodi.exe.config
+C:\Users\Vladimir\source\repos\Game_NuPogodi\bin\Debug\Game_NuPogodi.exe
+C:\Users\Vladimir\source\repos\Game_NuPogodi\bin\Debug\Game_NuPogodi.pdb
+C:\Users\Vladimir\source\repos\Game_NuPogodi\obj\Debug\Game_NuPogodi.csproj.AssemblyReference.cache
+C:\Users\Vladimir\source\repos\Game_NuPogodi\obj\Debug\Game_NuPogodi.Properties.Resources.resources
+C:\Users\Vladimir\source\repos\Game_NuPogodi\obj\Debug\Game_NuPogodi.csproj.GenerateResource.cache
+C:\Users\Vladimir\source\repos\Game_NuPogodi\obj\Debug\Game_NuPogodi.csproj.CoreCompileInputs.cache
+C:\Users\Vladimir\source\repos\Game_NuPogodi\obj\Debug\Game_NuPogodi.exe
+C:\Users\Vladimir\source\repos\Game_NuPogodi\obj\Debug\Game_NuPogodi.pdb
+C:\Users\Vladimir\source\repos\Game_NuPogodi\obj\Debug\Game_NuPogodi.Form1.resources
+F:\файлы\практика\Game_NuPogodi\bin\Debug\Game_NuPogodi.exe.config
+F:\файлы\практика\Game_NuPogodi\bin\Debug\Game_NuPogodi.exe
+F:\файлы\практика\Game_NuPogodi\bin\Debug\Game_NuPogodi.pdb
+F:\файлы\практика\Game_NuPogodi\obj\Debug\Game_NuPogodi.csproj.AssemblyReference.cache
+F:\файлы\практика\Game_NuPogodi\obj\Debug\Game_NuPogodi.Form1.resources
+F:\файлы\практика\Game_NuPogodi\obj\Debug\Game_NuPogodi.Properties.Resources.resources
+F:\файлы\практика\Game_NuPogodi\obj\Debug\Game_NuPogodi.csproj.GenerateResource.cache
+F:\файлы\практика\Game_NuPogodi\obj\Debug\Game_NuPogodi.csproj.CoreCompileInputs.cache
+F:\файлы\практика\Game_NuPogodi\obj\Debug\Game_NuPogodi.exe
+F:\файлы\практика\Game_NuPogodi\obj\Debug\Game_NuPogodi.pdb
+F:\файлы\практика\Game_NuPogodi\obj\Debug\Game_NuPogodi.csproj.SuggestedBindingRedirects.cache
+F:\файлы\практика\Game_NuPogodi\obj\Debug\Game_NuPogodi.Form2.resources
+F:\файлы\практика\Game_NuPogodi\obj\Debug\Game_NuPogodi.Form3.resources
+D:\praktika\Game_NuPogodi\bin\Debug\Game_NuPogodi.exe.config
+D:\praktika\Game_NuPogodi\bin\Debug\Game_NuPogodi.exe
+D:\praktika\Game_NuPogodi\bin\Debug\Game_NuPogodi.pdb
+D:\praktika\Game_NuPogodi\obj\Debug\Game_NuPogodi.csproj.AssemblyReference.cache
+D:\praktika\Game_NuPogodi\obj\Debug\Game_NuPogodi.csproj.SuggestedBindingRedirects.cache
+D:\praktika\Game_NuPogodi\obj\Debug\Game_NuPogodi.Form1.resources
+D:\praktika\Game_NuPogodi\obj\Debug\Game_NuPogodi.Form2.resources
+D:\praktika\Game_NuPogodi\obj\Debug\Game_NuPogodi.Form3.resources
+D:\praktika\Game_NuPogodi\obj\Debug\Game_NuPogodi.Properties.Resources.resources
+D:\praktika\Game_NuPogodi\obj\Debug\Game_NuPogodi.csproj.GenerateResource.cache
+D:\praktika\Game_NuPogodi\obj\Debug\Game_NuPogodi.csproj.CoreCompileInputs.cache
+D:\praktika\Game_NuPogodi\obj\Debug\Game_NuPogodi.exe
+D:\praktika\Game_NuPogodi\obj\Debug\Game_NuPogodi.pdb
+D:\praktika\Game_NuPogodi\obj\Debug\Game_NuPogodi.Form4.resources
+D:\praktika\Game_NuPogodi\bin\Debug\Game_NuPogodi.exe.manifest
+D:\praktika\Game_NuPogodi\bin\Debug\Game_NuPogodi.application
+D:\praktika\Game_NuPogodi\obj\Debug\Game_NuPogodi.exe.manifest
+D:\praktika\Game_NuPogodi\obj\Debug\Game_NuPogodi.application
+D:\учёба\практика_сем4\praktika\Game_NuPogodi\bin\Debug\Game_NuPogodi.exe.config
+D:\учёба\практика_сем4\praktika\Game_NuPogodi\bin\Debug\Game_NuPogodi.exe.manifest
+D:\учёба\практика_сем4\praktika\Game_NuPogodi\bin\Debug\Game_NuPogodi.application
+D:\учёба\практика_сем4\praktika\Game_NuPogodi\bin\Debug\Game_NuPogodi.exe
+D:\учёба\практика_сем4\praktika\Game_NuPogodi\bin\Debug\Game_NuPogodi.pdb
+D:\учёба\практика_сем4\praktika\Game_NuPogodi\obj\Debug\Game_NuPogodi.csproj.AssemblyReference.cache
+D:\учёба\практика_сем4\praktika\Game_NuPogodi\obj\Debug\Game_NuPogodi.Form1.resources
+D:\учёба\практика_сем4\praktika\Game_NuPogodi\obj\Debug\Game_NuPogodi.Form2.resources
+D:\учёба\практика_сем4\praktika\Game_NuPogodi\obj\Debug\Game_NuPogodi.Form3.resources
+D:\учёба\практика_сем4\praktika\Game_NuPogodi\obj\Debug\Game_NuPogodi.Form4.resources
+D:\учёба\практика_сем4\praktika\Game_NuPogodi\obj\Debug\Game_NuPogodi.Properties.Resources.resources
+D:\учёба\практика_сем4\praktika\Game_NuPogodi\obj\Debug\Game_NuPogodi.csproj.GenerateResource.cache
+D:\учёба\практика_сем4\praktika\Game_NuPogodi\obj\Debug\Game_NuPogodi.csproj.CoreCompileInputs.cache
+D:\учёба\практика_сем4\praktika\Game_NuPogodi\obj\Debug\Game_NuPogodi.exe.manifest
+D:\учёба\практика_сем4\praktika\Game_NuPogodi\obj\Debug\Game_NuPogodi.application
+D:\учёба\практика_сем4\praktika\Game_NuPogodi\obj\Debug\Game_NuPogodi.exe
+D:\учёба\практика_сем4\praktika\Game_NuPogodi\obj\Debug\Game_NuPogodi.pdb
+D:\учёба\семак4 практика\Game_NuPogodi\bin\Debug\Game_NuPogodi.exe.config
+D:\учёба\семак4 практика\Game_NuPogodi\bin\Debug\Game_NuPogodi.exe.manifest
+D:\учёба\семак4 практика\Game_NuPogodi\bin\Debug\Game_NuPogodi.application
+D:\учёба\семак4 практика\Game_NuPogodi\bin\Debug\Game_NuPogodi.exe
+D:\учёба\семак4 практика\Game_NuPogodi\bin\Debug\Game_NuPogodi.pdb
+D:\учёба\семак4 практика\Game_NuPogodi\obj\Debug\Game_NuPogodi.csproj.AssemblyReference.cache
+D:\учёба\семак4 практика\Game_NuPogodi\obj\Debug\Game_NuPogodi.Form1.resources
+D:\учёба\семак4 практика\Game_NuPogodi\obj\Debug\Game_NuPogodi.Form2.resources
+D:\учёба\семак4 практика\Game_NuPogodi\obj\Debug\Game_NuPogodi.Form3.resources
+D:\учёба\семак4 практика\Game_NuPogodi\obj\Debug\Game_NuPogodi.Form4.resources
+D:\учёба\семак4 практика\Game_NuPogodi\obj\Debug\Game_NuPogodi.Properties.Resources.resources
+D:\учёба\семак4 практика\Game_NuPogodi\obj\Debug\Game_NuPogodi.csproj.GenerateResource.cache
+D:\учёба\семак4 практика\Game_NuPogodi\obj\Debug\Game_NuPogodi.csproj.CoreCompileInputs.cache
+D:\учёба\семак4 практика\Game_NuPogodi\obj\Debug\Game_NuPogodi.exe.manifest
+D:\учёба\семак4 практика\Game_NuPogodi\obj\Debug\Game_NuPogodi.application
+D:\учёба\семак4 практика\Game_NuPogodi\obj\Debug\Game_NuPogodi.exe
+D:\учёба\семак4 практика\Game_NuPogodi\obj\Debug\Game_NuPogodi.pdb

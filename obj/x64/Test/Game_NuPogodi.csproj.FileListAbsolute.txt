@@ -1,0 +1,12 @@
+D:\praktika\Game_NuPogodi\bin\x64\Test\Game_NuPogodi.exe.config
+D:\praktika\Game_NuPogodi\bin\x64\Test\Game_NuPogodi.exe
+D:\praktika\Game_NuPogodi\obj\x64\Test\Game_NuPogodi.csproj.AssemblyReference.cache
+D:\praktika\Game_NuPogodi\obj\x64\Test\Game_NuPogodi.csproj.SuggestedBindingRedirects.cache
+D:\praktika\Game_NuPogodi\obj\x64\Test\Game_NuPogodi.Form1.resources
+D:\praktika\Game_NuPogodi\obj\x64\Test\Game_NuPogodi.Form2.resources
+D:\praktika\Game_NuPogodi\obj\x64\Test\Game_NuPogodi.Form3.resources
+D:\praktika\Game_NuPogodi\obj\x64\Test\Game_NuPogodi.Form4.resources
+D:\praktika\Game_NuPogodi\obj\x64\Test\Game_NuPogodi.Properties.Resources.resources
+D:\praktika\Game_NuPogodi\obj\x64\Test\Game_NuPogodi.csproj.GenerateResource.cache
+D:\praktika\Game_NuPogodi\obj\x64\Test\Game_NuPogodi.csproj.CoreCompileInputs.cache
+D:\praktika\Game_NuPogodi\obj\x64\Test\Game_NuPogodi.exe
